@@ -14,10 +14,46 @@ encoding: utf-8
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: JC
-email: jacopo.canton@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-    These are Jacopo's pages on GitHub
+locale                   : "en-US"
+title                    : "JC"
+subtitle                 : "Jacopo's pages"
+name                     : &name "Jacopo Canton" # &name is a YAML anchor which can be *referenced later
+email                    : "jacopo.canton@gmail.com"
+description              : &description "Jacopo's pages on GitHub."
+url                      : https://jcanton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+repository               : "jcanton/jcanton.github.io"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : algolia # lunr (default), algolia
+algolia:
+  application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID
+  index_name             : minimal_mistakes # YOUR_INDEX_NAME
+  search_only_api_key    : 9d5014e5bbc77372547bce778dfa5663 # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : true # true (default), false
+  files_to_exclude:
+
+# Social Sharing
+twitter:
+  username               : &twitter "JacopoCanton"
+facebook:
+  username               : &facebook "jack.canton"
+  app_id                 :
+  publisher              :
+# og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
+# For specifying social profiles, used in _includes/seo.html
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://twitter.com/JacopoCanton"
+    - "https://www.facebook.com/jack.canton"
 twitter_username: JacopoCanton
 github_username: jcanton
 minimal_mistakes_skin: air
@@ -25,12 +61,24 @@ search: true
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
 include:
   - _pages
@@ -57,9 +105,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jacopo Canton"
-  avatar : "/assets/images/bio-photo.png"
-  bio    : "My awesome biography on my personal pages."
+  name             : "Jacopo Canton"
+  avatar           : "/assets/images/bio-photo.png"
+  bio              : "My awesome biography on my personal pages."
+  location         : "Zurich, CH"
   links:
       #- label: "Website"
       #  icon: "fas fa-fw fa-link"
