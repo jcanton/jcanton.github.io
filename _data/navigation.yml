@@ -1,9 +1,13 @@
 main:
+  - title: "Home"
+    url: /index/
   - title: "Posts"
     url: /posts/
-#  - title: "Categories"
-#    url: /categories/
-#  - title: "Tags"
-#    url: /tags/
+  - title: "Maps"
+    url: /maps/
+  - title: "exMech"
+    url: /exmech/
+  - title: "PhD"
+    url: /phd/
   - title: "About"
     url: /about/

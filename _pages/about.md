@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: true
 ---
 
-I am Jacopo Canton.
+Hi. I am Jacopo Canton.
