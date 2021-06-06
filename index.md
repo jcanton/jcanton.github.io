@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/zurichNight.jpg
   actions:
-  caption: "Zurich at night"
+  caption: "Zurich's Limmat river"
 excerpt: "Welcome to Jacopo's website."
 intro: 
   - excerpt: 'These are my pages'

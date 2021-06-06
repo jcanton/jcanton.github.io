@@ -16,15 +16,15 @@ encoding: utf-8
 # in the templates via {{ site.myvariable }}.
 locale                   : "en-US"
 title                    : "JC"
-subtitle                 : "Jacopo's pages"
+#subtitle                 : "Jacopo's pages"
 name                     : &name "Jacopo Canton" # &name is a YAML anchor which can be *referenced later
 email                    : "jacopo.canton@gmail.com"
 description              : &description "Jacopo's pages on GitHub."
 url                      : https://jcanton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "jcanton/jcanton.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : favicon.ico # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Jacopo Canton" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 
@@ -52,17 +52,18 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/JacopoCanton"
+  #- "https://twitter.com/JacopoCanton"
+    - "https://github.com/jcanton/"
+    - "https://www.instagram.com/jacopocanton"
     - "https://www.facebook.com/jack.canton"
-twitter_username: JacopoCanton
-github_username: jcanton
-minimal_mistakes_skin: air
-search: true
+#twitter_username: JacopoCanton
+#github_username: jcanton
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: air
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -71,14 +72,14 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Markdown Processing
 kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+    input: GFM
+    hard_wrap: false
+    auto_ids: true
+    footnote_nr: 1
+    entity_output: as_char
+    toc_levels: 1..6
+    smart_quotes: lsquo,rsquo,ldquo,rdquo
+    enable_coderay: false
 
 include:
   - _pages
@@ -142,28 +143,28 @@ footer:
       url: "https://instagram.com/jacopocanton"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
+    # _posts
+    - scope:
+        path: ""
+        type: posts
+      values:
+        layout: single
+        author_profile: true
+        read_time: true
+        comments: true
+        share: true
+        related: true
+    # _pages
+    - scope:
+        path: "_pages"
+        type: pages
+      values:
+        layout: single
+        author_profile: false
 
 category_archive:
-  type: liquid
-  path: /categories/
+    type: liquid
+    path: /categories/
 tag_archive:
-  type: liquid
-  path: /tags/
+    type: liquid
+    path: /tags/
