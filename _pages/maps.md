@@ -3,4 +3,6 @@ permalink: /maps/
 title: "Maps"
 ---
 
-This page contains maps
+As for 2020, with lockdowns extending into 2021, my girlfriend and I continue our morning commute-substituting walks.
+
+<iframe title="Walking map" src="map_walking.html" height="500" width="100%"></iframe>
