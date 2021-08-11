@@ -39,13 +39,13 @@ GKN aerospace award in mechanics, focused on two main subjects: the numerical
 study of transitional and turbulent flow in bent pipes, and the search for a
 viable drag reduction mechanism in fully turbulent flows.
 
-
 During this time I published eight journal articles and participated as a
 speaker in sixteen international conferences.
 I was also invited as a visiting researcher at Argonne National Laboratories,
 collaborated with the R&D group of Tetra Pak, co-supervised three Masters
 theses, and was teaching assistant for the CFD course for three years.
 
-You can view my publications on my [Google
+You can [download my PhD thesis](/assets/pdfs/JacopoCanton_PhDthesis.pdf), and
+view my publications on my [Google
 Scholar](https://scholar.google.com/citations?user=7ypmj8YAAAAJ&hl=en&oi=ao)
 profile.
