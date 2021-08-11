@@ -14,7 +14,7 @@ I love learning and solving stimulating problems involving physics and
 mechanics.
 I graduated as an Aerospace engineer in Milan, obtained a PhD in fluid
 mechanics in Stockholm, and I am currently working as a post-doc in weather and
-climate in Zurich.
+climate science in Zurich.
 
 In my spare time I love fixing and riding bicycles, running in the woods
 surrounding Zurich, reading books, bouldering, working on small github
