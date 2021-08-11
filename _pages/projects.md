@@ -29,7 +29,8 @@ repository](https://github.com/jcanton/garminMaps).
 ## eX-Mech
 
 [eX-Mech](https://github.com/eX-Mech) is a GitHub organization I created with
-Nicolò, a fellow PhD student, during my time at KTH in Stockholm.
+[Nicolò Fabbiane](https://github.com/nfabbiane/), a fellow PhD student, during
+my time at KTH in Stockholm.
 It hosts a collection of open source projects ranging from LaTeX classes, to
 mesh generation software, to [pymech](https://pymech.readthedocs.io): our
 Python suite for handling mesh and data fields of CFD codes.
