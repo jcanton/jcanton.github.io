@@ -109,7 +109,7 @@ plugins:
 author:
   name             : "Jacopo Canton"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "My biography"
+  bio              : ""
   location         : "Zurich, CH"
   links:
       #- label: "Website"

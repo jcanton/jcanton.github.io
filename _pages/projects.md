@@ -1,6 +1,9 @@
 ---
 permalink: /projects/
 title: "Open source software projects"
+layout: single
+toc: false
+author_profile: true
 gallery:
   - url: /maps/
     image_path: /assets/images/walkingMap_thumb.png
