@@ -1,5 +1,5 @@
 ---
-title: "Hello there"
+title: "Hello!"
 layout: splash
 date: 2021-05-12T17:48:41-04:00
 header:
@@ -8,9 +8,20 @@ header:
   overlay_image: /assets/images/zurichNight.jpg
   actions:
   caption: "Zurich's Limmat river"
-excerpt: "Welcome to Jacopo's website."
+excerpt: "Welcome my website."
 intro: 
-  - excerpt: 'These are my pages'
+  - excerpt: 'I am Jacopo Canton, a researcher specialized in complex physics simulations.
+              <br/>Here you can find a little info about me and my work.'
+feature_row:
+  - image_path: assets/images/torus_square.jpg
+    alt: "My Phd"
+    image_caption: "[Read about my PhD and research](/phd/)"
+  - image_path: assets/images/exMech_logo_rectangle.jpg
+    alt: "Ex-Mech projects"
+    image_caption: "[Take a look at some of my projects](/exmech/)"
+  - image_path: assets/images/crescent_fixing.jpg
+    alt: "Blog"
+    image_caption: "[Read my journal](/posts/)"
 ---
 
 {% include feature_row id="intro" type="center" %}
