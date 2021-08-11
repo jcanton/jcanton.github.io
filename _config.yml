@@ -52,10 +52,11 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-  #- "https://twitter.com/JacopoCanton"
+    #- "https://twitter.com/JacopoCanton"
     - "https://github.com/jcanton/"
+    - "https://www.linkedin.com/in/jacopo-canton"
     - "https://www.instagram.com/jacopocanton"
-    - "https://www.facebook.com/jack.canton"
+    # - "https://www.facebook.com/jack.canton"
 #twitter_username: JacopoCanton
 #github_username: jcanton
 
