@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/zurichNight.jpg
   actions:
-  caption: "Zurich's Limmat river"
+  caption: "Downtown Zurich"
 excerpt: "Welcome my website."
 intro: 
   - excerpt: 'I am Jacopo Canton, a researcher specialized in complex physics simulations.
