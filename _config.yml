@@ -28,8 +28,8 @@ masthead_title           : "Jacopo Canton" # overrides the website title display
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 
-search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
+search                   : false # true, false (default)
+search_full_content      : false # true, false (default)
 search_provider          : algolia # lunr (default), algolia
 algolia:
   application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID

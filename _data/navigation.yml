@@ -1,13 +1,13 @@
 main:
     #- title: "Home"
     #  url: /
+  - title: "Blog"
+    url: /posts/
   - title: "PhD"
     url: /phd/
   - title: "exMech"
     url: /exmech/
   - title: "Maps"
     url: /maps/
-  - title: "Blog"
-    url: /posts/
   - title: "About"
     url: /about/
