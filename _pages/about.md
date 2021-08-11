@@ -8,7 +8,7 @@ Hi! I am Jacopo Canton.
 
 I am a detail oriented researcher with a passion for complex physics
 simulations, nonlinear chaotic systems, and machine learning.
-I am a tinkerer, coder, hobbyist photographer, running and cycling enthusiast.
+I love tinkering with machines, wood working, and coding; I am a hobbyist photographer, and a running and cycling enthusiast.
 
 I love learning and solving stimulating problems involving physics and
 mechanics.
