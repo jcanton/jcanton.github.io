@@ -16,8 +16,8 @@ feature_row:
   - image_path: assets/phd/torus_square.jpg
     alt: "My Phd and research"
     image_caption: "[Read about my PhD and research](/phd/)"
-  - image_path: assets/images/exMech_logo_rectangle.jpg
-    alt: "Ex-Mech projects"
+  - image_path: assets/images/walkingMap_thumb.png
+    alt: "Open source projects"
     image_caption: "[Take a look at some of my projects](/projects/)"
   - image_path: assets/images/crescent_fixing.jpg
     alt: "Blog"
