@@ -5,8 +5,8 @@ main:
     url: /posts/
   - title: "PhD"
     url: /phd/
-  - title: "exMech"
-    url: /exmech/
+  - title: "Projects"
+    url: /projects/
   - title: "Maps"
     url: /maps/
   - title: "About"

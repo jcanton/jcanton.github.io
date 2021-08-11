@@ -18,7 +18,7 @@ feature_row:
     image_caption: "[Read about my PhD and research](/phd/)"
   - image_path: assets/images/exMech_logo_rectangle.jpg
     alt: "Ex-Mech projects"
-    image_caption: "[Take a look at some of my projects](/exmech/)"
+    image_caption: "[Take a look at some of my projects](/projects/)"
   - image_path: assets/images/crescent_fixing.jpg
     alt: "Blog"
     image_caption: "[Read my journal](/posts/)"
