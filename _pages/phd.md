@@ -2,37 +2,23 @@
 permalink: /phd/
 title: "PhD and research"
 gallery:
-  - image_path: /assets/phd/domains_clean.jpg
-    alt: "IAC"
-    title: "IAC post-doc"
-  - image_path: /assets/phd/RLfield_small.png
-    alt: "CSElab"
-    title: "CSElab post-doc"
   - image_path: /assets/phd/torus_square.jpg
     alt: "PhD"
     title: "PhD at KTH"
+  - image_path: /assets/phd/RLfield_small.png
+    alt: "CSElab"
+    title: "CSElab post-doc"
+  - image_path: /assets/phd/domains_clean.jpg
+    alt: "IAC"
+    title: "IAC post-doc"
 ---
 
 {% include gallery %}
 
-## IAC
-
-I am currently doing a post-doc at ETH Zurich at the [Institute for Atmospheric
-and Climate Science](https://iac.ethz.ch/group/climate-and-water-cycle.html).
-My focus is on improving the modelling of clouds and the water cycle by
-developing new parametrisations for subgrid-scale mechanisms.
-
-## CSElab
-
-The [CSElab](https://www.cse-lab.ethz.ch) at ETH Zurich hosted my first
-post-doc with an [ETHZ
-fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships.html).
-During this time I developed a machine learning model to improve CFD
-simulations on coarse grids.
-
 ## PhD
 
-I spent four years in Stockholm where I obtained my PhD at the [Linné FLOW
+After graduating in Aerospace Engineering in Italy, I spent four years in
+Stockholm where I obtained my PhD at the [Linné FLOW
 Centre](https://www.flow.kth.se) at KTH Royal Institute of Technology.
 My [PhD thesis](/assets/pdfs/JacopoCanton_PhDthesis.pdf), which was awarded the
 GKN aerospace award in mechanics, focused on two main subjects: the numerical
@@ -49,3 +35,18 @@ You can [download my PhD thesis](/assets/pdfs/JacopoCanton_PhDthesis.pdf), and
 view my publications on my [Google
 Scholar](https://scholar.google.com/citations?user=7ypmj8YAAAAJ&hl=en&oi=ao)
 profile.
+
+## CSElab
+
+The [CSElab](https://www.cse-lab.ethz.ch) at ETH Zurich hosted my first
+post-doc with an [ETHZ
+fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships.html).
+During this time I developed a machine learning model to improve CFD
+simulations on coarse grids.
+
+## IAC
+
+I am currently doing a post-doc at ETH Zurich at the [Institute for Atmospheric
+and Climate Science](https://iac.ethz.ch/group/climate-and-water-cycle.html).
+My focus is on improving the modelling of clouds and the water cycle by
+developing new parametrisations for subgrid-scale mechanisms.
