@@ -13,7 +13,7 @@ intro:
   - excerpt: 'I am Jacopo Canton, a researcher specialized in complex physics simulations.
               <br/>Here you can find a little info about me and my work.'
 feature_row:
-  - image_path: assets/images/torus_square.jpg
+  - image_path: assets/phd/torus_square.jpg
     alt: "My Phd and research"
     image_caption: "[Read about my PhD and research](/phd/)"
   - image_path: assets/images/exMech_logo_rectangle.jpg
