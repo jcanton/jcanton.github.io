@@ -172,7 +172,7 @@ tag_archive:
 
 # Analytics
 analytics:
-provider: "google"
-google:
-  tracking_id: "G-RXH70KLX8D"
-  anonymize_ip: true # default false
+    provider: "google-gtag"
+    google:
+        tracking_id: "G-RXH70KLX8D"
+        anonymize_ip: true # default false
