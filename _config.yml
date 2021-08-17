@@ -175,4 +175,4 @@ analytics:
     provider: "google-gtag"
     google:
         tracking_id: "G-RXH70KLX8D"
-        anonymize_ip: true # default false
+        anonymize_ip: false # default false
