@@ -9,7 +9,8 @@ gallery:
     image_path: /assets/images/walkingMap_thumb.png
     alt: "Maps"
     title: "Automated maps"
-  - image_path: /assets/images/exMech_logo_rectangle.jpg
+  - url: https://github.com/eX-Mech
+    image_path: /assets/images/exMech_logo_rectangle.jpg
     alt: "eXMech"
     title: "eX-Mech projects"
 ---
