@@ -34,7 +34,7 @@ for dirPath, subDirs, fileList in os.walk(searchRoot, followlinks=True):
                 if os.path.splitext(f)[1][1:] in imgExtensions]
 
         print('\nDirectory: ' + dirPath)
-        print(imgFiles)
+        print([os.path.basename(imgFile) for imgFile in imgFiles])
 
         for imgFile in imgFiles:
 
