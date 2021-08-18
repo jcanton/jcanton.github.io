@@ -39,6 +39,11 @@ view my publications on my [Google
 Scholar](https://scholar.google.com/citations?user=7ypmj8YAAAAJ&hl=en&oi=ao)
 profile.
 
+I also shot a number of photos during this time, regarding fluids and not.
+You can see more on [my instagram page](https://www.instagram.com/jacopocanton).
+
+[![Pipe smoke][1t]{: .align-center}][1]
+
 ## CSElab
 
 The [CSElab](https://www.cse-lab.ethz.ch) at ETH Zurich hosted my first
@@ -53,3 +58,6 @@ I am currently doing a post-doc at ETH Zurich at the [Institute for Atmospheric
 and Climate Science](https://iac.ethz.ch/group/climate-and-water-cycle.html).
 My focus is on improving the modelling of clouds and the water cycle by
 developing new parametrisations for subgrid-scale mechanisms.
+
+[1]:  /assets/images/pipe_smoke.jpg
+[1t]: /assets/images/thumbs/pipe_smoke.jpg
