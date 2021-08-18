@@ -5,13 +5,13 @@ layout: single
 toc: false
 author_profile: true
 gallery:
-  - image_path: /assets/phd/torus_square.jpg
+  - image_path: /assets/phd/thumbs/torus_square.jpg
     alt: "PhD"
     title: "PhD at KTH"
-  - image_path: /assets/phd/RLfield_small.png
+  - image_path: /assets/phd/thumbs/RLfield_small.png
     alt: "CSElab"
     title: "CSElab post-doc"
-  - image_path: /assets/phd/domains_clean.jpg
+  - image_path: /assets/phd/thumbs/domains_clean.jpg
     alt: "IAC"
     title: "IAC post-doc"
 ---
