@@ -174,5 +174,6 @@ tag_archive:
 analytics:
     provider: "google-gtag"
     google:
-        tracking_id: "G-RXH70KLX8D"
+        #tracking_id: "G-RXH70KLX8D"
+        tracking_id: "G-DVX4Y9CWN3"
         anonymize_ip: false # default false
