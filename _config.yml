@@ -21,7 +21,7 @@ name                     : &name "Jacopo Canton" # &name is a YAML anchor which 
 email                    : "jacopo.canton@gmail.com"
 description              : &description "Jacopo Canton's website."
 url                      : https://jacopocanton.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-# repository             : "jcanton/jcanton.github.io"
+repository               : "jcanton/jcanton.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : favicon.ico # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Jacopo Canton" # overrides the website title displayed in the masthead, use " " for no title
