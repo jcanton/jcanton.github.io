@@ -13,10 +13,10 @@ intro:
   - excerpt: 'I am Jacopo Canton, a researcher specialized in complex physics simulations.
               <br/>Here you can find a little info about me and my work.'
 feature_row:
-  - image_path: assets/phd/thumbs/torusAnimation.gif
+  - image_path: assets/phd/torusAnimation.gif
     alt: "My Phd and research"
     image_caption: "[Read about my PhD and research](/phd/)"
-  - image_path: assets/images/thumbs/walkingMap_thumb.png
+  - image_path: assets/images/walkingMap.gif
     alt: "Open source projects"
     image_caption: "[Take a look at some of my projects](/projects/)"
   - image_path: assets/images/thumbs/crescent_fixing.jpg
