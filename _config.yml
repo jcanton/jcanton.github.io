@@ -15,13 +15,13 @@ encoding: utf-8
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale                   : "en-US"
-title                    : "JC"
-#subtitle                 : "Jacopo's pages"
+title                    : "Jacopo Canton"
+#subtitle                : "Jacopo Canton's pages"
 name                     : &name "Jacopo Canton" # &name is a YAML anchor which can be *referenced later
 email                    : "jacopo.canton@gmail.com"
-description              : &description "Jacopo's pages on GitHub."
+description              : &description "Jacopo Canton's website."
 url                      : https://jacopocanton.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#repository               : "jcanton/jcanton.github.io"
+# repository             : "jcanton/jcanton.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : favicon.ico # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Jacopo Canton" # overrides the website title displayed in the masthead, use " " for no title
@@ -30,13 +30,13 @@ words_per_minute         : 200
 
 search                   : false # true, false (default)
 search_full_content      : false # true, false (default)
-search_provider          : algolia # lunr (default), algolia
-algolia:
-  application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID
-  index_name             : minimal_mistakes # YOUR_INDEX_NAME
-  search_only_api_key    : 9d5014e5bbc77372547bce778dfa5663 # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : true # true (default), false
-  files_to_exclude:
+search_provider          : lunr # lunr (default), algolia
+#algolia:
+#  application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID
+#  index_name             : minimal_mistakes # YOUR_INDEX_NAME
+#  search_only_api_key    : 9d5014e5bbc77372547bce778dfa5663 # YOUR_SEARCH_ONLY_API_KEY
+#  powered_by             : true # true (default), false
+#  files_to_exclude:
 
 # Social Sharing
 twitter:
@@ -151,6 +151,7 @@ defaults:
       values:
         layout: single
         author_profile: true
+        show_date: true
         read_time: true
         comments: true
         share: true
