@@ -1,9 +1,6 @@
 ---
 permalink: /phd/
 title: "PhD and research"
-layout: single
-toc: false
-author_profile: true
 gallery:
   - image_path: /assets/phd/thumbs/torus_square.jpg
     alt: "PhD"

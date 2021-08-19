@@ -1,9 +1,6 @@
 ---
 permalink: /maps/
 title: "Autometed maps"
-layout: single
-toc: false
-author_profile: true
 ---
 
 As for 2020, with lockdowns extending into 2021, my girlfriend and I continue
