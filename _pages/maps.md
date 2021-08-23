@@ -15,3 +15,5 @@ map by opening the layers menu.
 
 This map is updated daily by my Raspberry Pi with code from my
 [garminMaps](https://github.com/jcanton/garminMaps) repository.
+The code interfaces with the Garmin Connect API, gathers, filters and processes
+the data, and generates the map employing the Folium library.
