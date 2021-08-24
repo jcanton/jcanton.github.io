@@ -21,7 +21,7 @@ feature_row:
     image_caption: "[Take a look at some of my projects](/projects/)"
   - image_path: assets/images/thumbs/crescent_fixing.jpg
     alt: "Blog"
-    image_caption: "[Read my journal](/posts/)"
+    image_caption: "[Read my blog](/blog/)"
 ---
 
 {% include feature_row id="intro" type="center" %}

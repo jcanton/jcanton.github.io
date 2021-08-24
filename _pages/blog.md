@@ -1,6 +1,6 @@
 ---
 title: "A journal of side projects and fun stuff"
-permalink: /posts/
+permalink: /blog/
 layout: posts
 toc: false
 author_profile: true
