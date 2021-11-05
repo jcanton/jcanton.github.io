@@ -56,6 +56,7 @@ social:
     - "https://github.com/jcanton/"
     - "https://www.linkedin.com/in/jacopo-canton"
     - "https://www.instagram.com/jacopocanton"
+    - "https://leetcode.com/jacopo_canton"
     # - "https://www.facebook.com/jack.canton"
 #twitter_username: JacopoCanton
 #github_username: jcanton
@@ -121,6 +122,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jcanton"
+    - label: "LeetCode"
+      icon: "fas fa-fw fa-keyboard"
+      url: "https://leetcode.com/jacopo_canton"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/jacopo-canton"
@@ -136,6 +140,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jcanton"
+    - label: "LeetCode"
+      icon: "fas fa-fw fa-keyboard"
+      url: "https://leetcode.com/jacopo_canton"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/jacopo-canton"
