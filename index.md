@@ -9,8 +9,8 @@ header:
   actions:
   caption: "Downtown Zurich"
 excerpt: "Welcome my website."
-intro: 
-  - excerpt: 'I am Jacopo Canton, a researcher specialized in complex physics simulations.
+intro:
+  - excerpt: 'I am Jacopo Canton, a researcher/engineer/developer specialized in complex physics simulations.
               <br/>Here you can find a little info about me and my work.'
 feature_row:
   - image_path: assets/phd/torusAnimation.gif
